@@ -1,8 +1,7 @@
 # ADS Project 5: 
 
-Term: Spring 2021
+Term: Spring 2022
 
-+ Team #
 + Projec title: Privacy in Information Age
 + Wenhui Fang
 + Project summary: People's privacy has been a hot topic over decades, and there are increasing number of stalkers using social media information. How easily our privacy can be invaded and how our private information can be used in good ways and bad ways? With these questions, we are going to show how dangerous if our privacy is not protected well. 
